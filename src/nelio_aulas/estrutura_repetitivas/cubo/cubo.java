@@ -22,5 +22,7 @@ public class cubo {
             System.out.println(i +" " + quadrado + " " + " " + cubo);
         }
 
+        sc.close();
+
     }
 }
